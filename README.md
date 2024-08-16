@@ -4,6 +4,8 @@ A fully responsive Netflix login page clone, designed for all devices, built usi
 
 ## Preview
 
+Here are the images I used to build the sign up page
+
 ![Netflix Logo](Images/logo.svg)
 
 ![Netflix Hero Image](Images/hero-img.jpg)
