@@ -2,9 +2,11 @@
 
 A fully responsive Netflix login page clone, designed for all devices, built using HTML and CSS.
 
-## Demo Screenshots
+## Preview
 
-[You can add screenshots of your project here]
+![Netflix Logo](Images/logo.svg)
+
+![Netflix Hero Image](Images/hero-img.jpg)
 
 ## Prerequisites
 
