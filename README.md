@@ -18,6 +18,7 @@ Image - II:
 
 Before you begin, ensure you have met the following requirements:
 
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 * A modern web browser to view the project.
 * (Optional) A code editor if you want to modify the project.
 
@@ -49,13 +50,15 @@ git clone https://github.com/Shivani-Toorpu/Netflix-SignUp-Page.git
 
 You can customize this login page by modifying the following:
 
-- Change the logo by replacing `images/logo.svg`
-- Update the background image by replacing `images/hero-img.jpg`
+- Change the logo by replacing `Images/logo.svg`
+- Update the background image by replacing `Images/hero-img.jpg`
 - Adjust colors, fonts, and layout in the `style.css` file
 
 ## Contact
 
-If you want to contact me, you can reach me at [Gmail](toorpushivani@gmail.com).
+If you have any questions or feedback, feel free to reach out:
+
+- **Email:** [toorpushivani@gmail.com](mailto:toorpushivani@gmail.com)
 
 ## License
 
