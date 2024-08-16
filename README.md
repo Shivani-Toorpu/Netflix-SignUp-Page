@@ -2,7 +2,7 @@
 
 A fully responsive Netflix login page clone, designed for all devices, built using HTML and CSS.
 
-## Preview
+## Images
 
 Here are the images I used to build the sign up page
 
@@ -24,7 +24,8 @@ Before you begin, ensure you have met the following requirements:
 
 ## Run Locally
 
-To run the **Netflix Login Page Clone** locally, run this command on your git bash:
+To run the **Netflix Login Page Clone** locally, follow these steps:
+1. Run this command on your git bash:
 
 Linux and macOS:
 
@@ -37,6 +38,9 @@ Windows:
 ```bash
 git clone https://github.com/Shivani-Toorpu/Netflix-SignUp-Page.git
 ```
+2. Navigate to the project directory:
+
+3. Open the `index.html` file in your web browser.
 
 ## Features
 
